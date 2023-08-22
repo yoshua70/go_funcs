@@ -4,11 +4,11 @@ A collection of functions written in the Go programming language.
 
 ## FibonacciDynamic
 
+Compute the nth element of the Fibonacci sequence using dynamic programming.
+
 ```go
 FibonacciDynamic() func(y int) int
 ```
-
-Compute the nth element of the Fibonacci sequence using dynamic programming.
 
 ### Usage
 
